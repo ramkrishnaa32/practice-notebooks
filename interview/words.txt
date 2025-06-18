@@ -1,0 +1,10 @@
+apple
+banana
+cat
+dog
+elephant
+flower
+grape
+house
+ice
+jungle
